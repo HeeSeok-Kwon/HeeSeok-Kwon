@@ -1,4 +1,6 @@
-:wave:  Hi there! I'm aiming for a full-stack developer.
+🤔 About Me
+--------------------------------------------------------------------------
+:wave:  Hi there! I'm aiming for a full-stack developer. <br>
 I am currently a graduate student and working at Pusan National University Software Education Center.
 
 📫 Contact 
