@@ -1,5 +1,6 @@
-:wave:  Hi there! I'm aiming for a full-stack developer.
-#### Contact
+:wave:  Hi there! I'm aiming for a <span style="color:blue">full-stack developer</span>.
+--------------------------------------------------------------------------
+#### Contact 
 [![Github](https://img.shields.io/badge/Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style=plastic)](https://github.com/Kwon1995-2)
 ![Gmail](https://img.shields.io/badge/simongmltjr2022@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic)
 
