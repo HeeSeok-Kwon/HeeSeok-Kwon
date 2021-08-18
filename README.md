@@ -1,4 +1,4 @@
-![muscles](https://user-images.githubusercontent.com/80610295/129900420-3877d932-c695-4cbe-8323-807b37aa9594.png) Skills used at least once
+:muscle: Skills used at least once
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <!--
