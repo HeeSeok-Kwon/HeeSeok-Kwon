@@ -1,3 +1,7 @@
+:wave:  Hi there! I'm aiming for a full-stack developer.
+![GitHub](https://img.shields.io/badge/https://github.com/Kwon1995-2-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style=plastic)
+![Gmail](https://img.shields.io/badge/simongmltjr2022@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic)
+
 :muscle: <b>Skills</b> 
 --------------------------------------------------------------------------
 #### Language used at once
@@ -11,6 +15,9 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&style=plastic)
 ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&style=plastic)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white&style=plastic)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&style=plastic)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&style=plastic)
+<br>
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white&style=plastic)
 
 #### Tools
@@ -19,6 +26,7 @@
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white&style=plastic)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white&style=plastic)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white&style=plastic)
+<br>
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&style=plastic)
 
 <!--
