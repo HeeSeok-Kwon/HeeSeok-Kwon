@@ -1,6 +1,6 @@
 :wave:  Hi there! I'm aiming for a full-stack developer.
 #### Contact
-![GitHub](https://img.shields.io/badge/https://github.com/Kwon1995-2-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style=plastic)
+![GitHub](https://img.shields.io/badge/"https://github.com/Kwon1995-2"-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style=plastic)
 ![Gmail](https://img.shields.io/badge/simongmltjr2022@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic)
 
 :muscle: <b>Skills</b> 
