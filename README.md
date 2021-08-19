@@ -26,8 +26,8 @@ I am currently a graduate student and working at Pusan National University SW Ce
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&style=plastic)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&style=plastic)
 <br>
-![Hyperledger](https://img.shields.io/badge/HyperledgerFabric-2F3134.svg?style=for-the-badge&&logo=Hyperledger&logoColor=white&style=plastic)
 ![Solidity](https://img.shields.io/badge/Solidity-363636.svg?style=for-the-badge&&logo=Solidity&logoColor=white&style=plastic)
+![Hyperledger](https://img.shields.io/badge/HyperledgerFabric-2F3134.svg?style=for-the-badge&&logo=Hyperledger&logoColor=white&style=plastic)
 <br>
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white&style=plastic)
 
