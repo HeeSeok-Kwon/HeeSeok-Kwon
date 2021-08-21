@@ -1,13 +1,19 @@
 🤔 About Me
 --------------------------------------------------------------------------
 :wave:  Hi there! I'm aiming for a full-stack developer. <br>
-Currently attending graduate school at Pusan National University and my major is digital finance.
+Currently attending graduate school at Pusan National University and my major is digital finance. <br>
+I'm a teaching assistant at Digital Finance Labs and research assistant at Software Education Center.
+
+🗒 Blog
+--------------------------------------------------------------------------
+This Github place is for personal coding study. <br>
+If you are interested in my another Github, please click the tag below. 🔽 <br>
+[![Github](https://img.shields.io/badge/Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style=plastic)](https://github.com/Kwon1995-2)
 
 📫 Contact 
 --------------------------------------------------------------------------
-My first Github --> [![Github](https://img.shields.io/badge/Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style=plastic)](https://github.com/Kwon1995-2)
-<br>
-My Email Address --> ![Gmail](https://img.shields.io/badge/simongmltjr2022@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic)
+![Gmail](https://img.shields.io/badge/simongmltjr2022@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic)
+![Gmail](https://img.shields.io/badge/simoncoder@pusan.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic)
 
 
 :muscle: <b>Skills</b> 
