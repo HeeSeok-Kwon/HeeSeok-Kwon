@@ -4,10 +4,6 @@
 Currently attending graduate school at Pusan National University and my major is digital finance. <br>
 I'm a teaching assistant at Digital Finance Labs and research assistant at Software Education Center.
 
-#### About Blog
-This Github place is for personal coding study. <br>
-If you are interested in my another Github, please click the link below my profile or Github tag below Contact 
-
 📫 Contact 
 --------------------------------------------------------------------------
 [![Github](https://img.shields.io/badge/Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style=plastic)](https://github.com/Kwon1995-2)
