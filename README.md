@@ -3,7 +3,7 @@
 :wave:  Hi there! I'm aiming for a full-stack developer. <br>
 Currently attending graduate school at Pusan National University and my major is digital finance. <br>
 I'm a teaching assistant at Digital Finance Labs and research assistant at Software Education Center.
-<br><br>
+<br>
 
 📫 Contact 
 --------------------------------------------------------------------------
