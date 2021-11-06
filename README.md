@@ -45,8 +45,7 @@ I'm a teaching assistant at Digital Finance Labs and research assistant at Softw
 <br>
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&style=plastic)
 
-
-🔤 <b>Stat</b> 
+<br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heejaedev &theme=default&show_icons=true)
 
 <!--
