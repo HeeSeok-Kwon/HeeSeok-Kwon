@@ -10,7 +10,8 @@ Participated in the development and management of the site below.
 - [DiFiLab](https://sites.google.com/view/difilab)
 
 This Github is used
-- to record the blockchain developer training process 
+- to record my study log 
+- to join projects for develop
 - to work at the software education center.
 <br>
 
