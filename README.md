@@ -4,6 +4,7 @@
 Currently attending graduate school at Pusan National University and my major is digital finance. <br>
 I'm a teaching assistant at Digital Finance Labs and research assistant at Software Education Center.
 <br>
+<br>
 Participated in the development and management of the site below.
 - [SW역량지원시스템](https://pnuswedu.org)
 - [PNU Online Judge](http://oj.pnuswedu.org/)
@@ -13,7 +14,6 @@ This Github is used
 - to record my study log 
 - to join projects for develop
 - to work at the software education center.
-<br>
 
 📫 Contact 
 --------------------------------------------------------------------------
