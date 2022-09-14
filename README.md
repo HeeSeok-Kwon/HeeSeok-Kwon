@@ -5,12 +5,8 @@ Currently attending graduate school at Pusan National University and my major is
 I was a teaching assistant at Digital Finance Labs and research assistant at Software Education Center.
 <br>
 <br>
-My Portfolio in below
+My Portfolio and Blog in below
 - [Portfolio](https://florentine-behavior-ea1.notion.site/Portfolio-ae5ff7f5166044cb861ae8452cf91dcf)
-
-<br>
-
-My Blog
 - [Blog](https://blog.naver.com/rnjs1995)
 
 <br>
