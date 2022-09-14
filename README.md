@@ -43,7 +43,7 @@ This Github is used
 ![Hyperledger](https://img.shields.io/badge/HyperledgerFabric-2F3134.svg?style=for-the-badge&&logo=Hyperledger&logoColor=white&style=plastic)
 <br>
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white&style=plastic)
-https://www.vectorlogo.zone/logos/python/python-horizontal.svg
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 
 
 #### Tools
