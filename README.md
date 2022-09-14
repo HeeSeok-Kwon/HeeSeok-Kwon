@@ -45,7 +45,7 @@ This Github is used
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white&style=plastic)
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="2.5%" src="https://user-images.githubusercontent.com/80610295/190043036-39dca413-cd0c-4d8d-9029-7f2c25d4002d.svg"></code>
+<code><img width="2.5%" height="5%" src="https://user-images.githubusercontent.com/80610295/190043036-39dca413-cd0c-4d8d-9029-7f2c25d4002d.svg"></code>
 
 
 #### Tools
