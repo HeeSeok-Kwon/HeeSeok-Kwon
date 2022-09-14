@@ -8,14 +8,25 @@ I was a teaching assistant at Digital Finance Labs and research assistant at Sof
 My Portfolio in below
 - [Portfolio](https://florentine-behavior-ea1.notion.site/Portfolio-ae5ff7f5166044cb861ae8452cf91dcf)
 
+<br>
+
+My Blog
+- [Blog](https://blog.naver.com/rnjs1995)
+
+<br>
+
 At the SW Education Center, I developed and maintained the following website.
 - [SW 역량지원시스템](https://pnuswedu.org)
 - [CCM 코딩역량 관리시스템](http://ccm.pusan.ac.kr/login)
 - [PNU Online Judge](http://oj.pnuswedu.org/)
 - [2022-1 PNU SW 융합 문제해결 경진대회](https://sites.google.com/view/pnu2022-1/%ED%99%88)
 
+<br>
+
 At the DiFiLab, I developed the following website using google site.
 - [DiFiLab](https://sites.google.com/view/difilab)
+
+<br>
 
 Below is a project I participated in
 - [GDSC 멘토-멘티 연결 애플리케이션](https://github.com/GDSC-Rural-Educational-Service)
@@ -24,6 +35,8 @@ Below is a project I participated in
 - [당근마켓 클론코딩 React](https://github.com/CarrotMarket-Clone)
 - [당근마켓 클론코딩 Flutter](https://github.com/flutter-clone-coding)
 - [BlockChain Farm Lotto 프로젝트](https://github.com/BlockchainFarm-Lotto)
+
+<br>
 
 This Github is used
 - to record my study log and work log
