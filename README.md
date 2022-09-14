@@ -2,16 +2,31 @@
 --------------------------------------------------------------------------
 :wave:  Hi there! I'm aiming for a full-stack developer. <br>
 Currently attending graduate school at Pusan National University and my major is digital finance. <br>
-I'm a teaching assistant at Digital Finance Labs and research assistant at Software Education Center.
+I was a teaching assistant at Digital Finance Labs and research assistant at Software Education Center.
 <br>
 <br>
-Participated in the development and management of the site below.
-- [SW역량지원시스템](https://pnuswedu.org)
+My Portfolio in below
+- [Portfolio](https://florentine-behavior-ea1.notion.site/Portfolio-ae5ff7f5166044cb861ae8452cf91dcf)
+
+At the SW Education Center, I developed and maintained the following website.
+- [SW 역량지원시스템](https://pnuswedu.org)
+- [CCM 코딩역량 관리시스템](http://ccm.pusan.ac.kr/login)
 - [PNU Online Judge](http://oj.pnuswedu.org/)
+- [2022-1 PNU SW 융합 문제해결 경진대회](https://sites.google.com/view/pnu2022-1/%ED%99%88)
+
+At the DiFiLab, I developed the following website using google site.
 - [DiFiLab](https://sites.google.com/view/difilab)
 
+Below is a project I participated in
+- [GDSC 멘토-멘티 연결 애플리케이션](https://github.com/GDSC-Rural-Educational-Service)
+- [GDSC 소개 홈페이지 Demo](https://github.com/gdsc-2021/gdsc-pnu-5th-heeseok)
+- [착송 프로젝트](https://github.com/Error-Remittance)
+- [당근마켓 클론코딩 React](https://github.com/CarrotMarket-Clone)
+- [당근마켓 클론코딩 Flutter](https://github.com/flutter-clone-coding)
+- [BlockChain Farm Lotto 프로젝트](https://github.com/BlockchainFarm-Lotto)
+
 This Github is used
-- to record my study log 
+- to record my study log and work log
 - to join projects for develop
 - to work at the software education center.
 <br>
@@ -64,28 +79,28 @@ This Github is used
 
 <br />
 
-#### Framework
+### Framework
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
 
 <br />
 
-#### BlockChain
+### BlockChain
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/ethereum/ethereum-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/hyperledger/hyperledger-ar21.svg"></code>
 
 <br />
 
-#### OS
+### OS
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
 <code><img width="15%" src="https://user-images.githubusercontent.com/80610295/190045661-6657c919-a27a-4bcc-bfac-7e40959de479.png"></code>
 <code><img width="5%" src="https://user-images.githubusercontent.com/80610295/190046937-c9d2ead4-16f0-4bbc-aaa9-aff6f7fdf61b.png"></code>
 
 <br />
 
-#### Tools
+### Tools
 <code><img width="5%" src="https://user-images.githubusercontent.com/80610295/190046741-bd36d66f-114a-45f2-af99-f47aa567338c.png"></code>
 <code><img width="5%" src="https://user-images.githubusercontent.com/80610295/190046789-1082f8cb-35c9-45e8-9491-2020bb161f94.png"></code>
 <br />
