@@ -24,7 +24,7 @@ At the DiFiLab, I developed the following website using google site.
 
 <br>
 
-Below is a project I participated in
+Below are projects I participated in
 - [GDSC 멘토-멘티 연결 애플리케이션](https://github.com/GDSC-Rural-Educational-Service)
 - [GDSC 소개 홈페이지 Demo](https://github.com/gdsc-2021/gdsc-pnu-5th-heeseok)
 - [착송 프로젝트](https://github.com/Error-Remittance)
