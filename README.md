@@ -60,7 +60,7 @@ This Github is used
 --------------------------------------------------------------------------
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeeSeok-Kwon&theme=default&show_icons=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=HeeSeok-Kwon"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HeeSeok-Kwon"/>
 
 <!--
 **HeeSeok-Kwon/HeeSeok-Kwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
