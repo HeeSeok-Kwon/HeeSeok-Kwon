@@ -22,6 +22,22 @@ At the SW Education Center, I developed and maintained the following website.
 At the DiFiLab, I developed the following website using google site.
 - [DiFiLab](https://sites.google.com/view/difilab)
 
+Conducting blockchain and platform management practice classes.
+
+1. Python을 이용한 채굴 실습
+```
+- [https://github.com/HeeSeok-Kwon/Python_study/tree/main/BlockChain_and_Platform_Business](https://github.com/HeeSeok-Kwon/Python_study/tree/main/BlockChain_and_Platform_Business)
+- Python을 이용한 PoW 실습
+```
+
+2. Solidity와 React 연동 실습
+```
+- [https://codesandbox.io/s/ethereum-ground-leothw](https://codesandbox.io/s/ethereum-ground-leothw)
+- [https://codesandbox.io/s/ethereum-ground-baseline-f7gvy9](https://codesandbox.io/s/ethereum-ground-baseline-f7gvy9)
+- Remix를 이용한 Solidity 문법 수업
+- Codesandbox를 이용한 Solidity, React 연동 웹 애플리케이션 개발 수업 - Goerli Testnet 배포 
+```
+
 <br>
 
 Below are projects I participated in
