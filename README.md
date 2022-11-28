@@ -53,7 +53,7 @@ Below are projects I participated in
 
 This Github is used
 - to record my study log and work log
-- to join projects for develop
+- to join projects for development
 - to work at the software education center.
 <br>
 
