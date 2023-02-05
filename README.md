@@ -1,23 +1,45 @@
 🤔 About Me
 --------------------------------------------------------------------------
-:wave:  Hi there! I'm aiming for a full-stack developer. <br>
-Currently attending graduate school at Pusan National University and my major is digital finance. <br>
+:wave:  Hi there! I'm aiming for a full-stack developer. <br />
+Currently attending graduate school at Pusan National University and my major is digital finance. <br />
 I was a teaching assistant at Digital Finance Labs and research assistant at Software Education Center.
-<br>
-<br>
-My Portfolio and Blog in below
-- [Portfolio](https://florentine-behavior-ea1.notion.site/Portfolio-ae5ff7f5166044cb861ae8452cf91dcf)
-- [Blog](https://blog.naver.com/rnjs1995)
+<br />
+<br />
+My Portfolio and Blog in below 
 
-<br>
+**[🔗 포트폴리오](https://florentine-behavior-ea1.notion.site/Portfolio-ae5ff7f5166044cb861ae8452cf91dcf)**
+
+**[🔗 기술 블로그](https://blog.naver.com/rnjs1995)**
+
+<br />
 
 At the SW Education Center, I developed and maintained the following website.
-- [SW 역량지원시스템](https://pnuswedu.org)
-- [CCM 코딩역량 관리시스템](http://ccm.pusan.ac.kr/login)
-- [PNU Online Judge](http://oj.pnuswedu.org/)
-- [2022-1 PNU SW 융합 문제해결 경진대회](https://sites.google.com/view/pnu2022-1/%ED%99%88)
+<br />
 
-<br>
+**[🔗 PNU 역량지원시스템](https://pnuswedu.org)**
+
+- 사용 언어 : PHP, HTML, CSS, Javscript
+- 사용자 페이지 유지보수
+- 관리자 페이지 기능 개발 (역량 점수 순위 / 검색 및 정렬 / 역량 실적 제출 기간 제한 / 제출 증빙 압축 다운로드 등)
+- 공지사항 크롤링 수정
+
+**[🔗 CCM 코딩역량 관리시스템](http://ccm.pusan.ac.kr/login)**
+
+- 사용 스택 : React, Node.js, npm, nvm, postgresql, nginx
+- 주요 업무 : 서버 관리
+- 상세 : 이전 관리자로부터 인수인계 받아 관리
+
+**[🔗 PNU Online Judge](http://oj.pnuswedu.org/)**
+
+- 코딩 테스트 사이트
+- 주요 업무 : 코딩 문제 업로드, 문제 오류 수정
+- 이슈 : 교내 서버에서 MS 가상 서버 이관 작업 수행 (Docker, Linux 명령어 사용)
+
+**[🔗 2022-1 PNU SW 융합 문제해결 경진대회](https://sites.google.com/view/pnu2022-1/%ED%99%88)**
+
+**[🔗 2022-2 PNU SW+X 문제해결 경진대회](https://sites.google.com/view/pnu2022-2/%ED%99%88)**
+
+<br />
 
 At the DiFiLab, I developed the following website using google site.
 - [DiFiLab](https://sites.google.com/view/difilab)
@@ -39,15 +61,36 @@ Conducting blockchain and platform management practice classes.
 - Codesandbox를 이용한 Solidity, React 연동 웹 애플리케이션 개발 수업 - Goerli Testnet 배포 
 ```
 
-<br>
+<br />
 
 Below are projects I participated in
-- [GDSC 멘토-멘티 연결 애플리케이션](https://github.com/GDSC-Rural-Educational-Service)
-- [GDSC 소개 홈페이지 Demo](https://github.com/gdsc-2021/gdsc-pnu-5th-heeseok)
-- [착송 프로젝트](https://github.com/Error-Remittance)
-- [당근마켓 클론코딩 React](https://github.com/CarrotMarket-Clone)
-- [당근마켓 클론코딩 Flutter](https://github.com/flutter-clone-coding)
-- [BlockChain Farm Lotto 프로젝트](https://github.com/BlockchainFarm-Lotto)
+
+**[🔗 GDSC 멘토-멘티 연결 애플리케이션](https://github.com/GDSC-Rural-Educational-Service)**
+
+
+**[🔗 GDSC 소개 홈페이지 Demo](https://github.com/gdsc-2021/gdsc-pnu-5th-heeseok)**
+
+- 배포 링크 : [https://gdsc-pnu-demo.netlify.app/](https://gdsc-pnu-demo.netlify.app/)
+- 사용 스택 : Vue.js, HTML, CSS
+
+
+**[🔗 착송 출시](https://github.com/Error-Remittance)**
+
+- 구글 플레이 스토어 : [https://play.google.com/store/apps/details?id=com.chaksong.release](https://play.google.com/store/apps/details?id=com.chaksong.release)
+- 사용 스택 : Flutter, GetX, Dio
+- 주요 업무 : 프론트엔드 개발자 (Flutter)
+- 기타 : 착송 홈페이지, 관리자 홈페이지 개발
+- 착송 홈페이지 (서브 도메인 작업 중) : [https://chaksong.netlify.app/](https://chaksong.netlify.app/)
+
+
+**[🔗 당근마켓 클론코딩 React](https://github.com/CarrotMarket-Clone)**
+
+**[🔗 당근마켓 클론코딩 Flutter](https://github.com/flutter-clone-coding)**
+
+**[🔗 BlockChain Farm Lotto 프로젝트](https://github.com/BlockchainFarm-Lotto)**
+
+- 배포 링크 : [https://lottocoin.netlify.app/](https://lottocoin.netlify.app/)
+- 사용 스택 : React, Solidity, Web3.js
 
 <br>
 
@@ -61,8 +104,8 @@ This Github is used
 --------------------------------------------------------------------------
 [![Github](https://img.shields.io/badge/Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style=plastic)](https://github.com/Kwon1995-2)
 ![Gmail](https://img.shields.io/badge/simongmltjr2022@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic)
-<br>
-<br> 
+<br />
+<br /> 
 
 :muscle: <b>Skills</b> 
 --------------------------------------------------------------------------
