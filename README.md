@@ -29,7 +29,7 @@ At the SW Education Center, I developed and maintained the following website.
 - 주요 업무 : 서버 관리
 - 상세 : 이전 관리자로부터 인수인계 받아 관리
 
-**[🔗 PNU Online Judge](http://oj.pnuswedu.org/)**
+**[🔗 PNU Online Judge](http://oj.pusan.ac.kr/)**
 
 - 코딩 테스트 사이트
 - 주요 업무 : 코딩 문제 업로드, 문제 오류 수정
