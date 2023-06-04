@@ -1,7 +1,8 @@
 🤔 About Me
 --------------------------------------------------------------------------
 :wave:  Hi there! I'm aiming for a full-stack developer. <br />
-Currently attending graduate school at Pusan National University and my major is digital finance. <br />
+I'm currently working as a developer at Pusan National University Office of Information Technology&Serviecs. <br />
+I was graduated from Pusan National University with a Master's degree in Digital Finance of Business Administration. <br />
 I was a teaching assistant at Digital Finance Labs and research assistant at Software Education Center.
 <br />
 <br />
