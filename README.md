@@ -6,7 +6,7 @@ I was graduated from Pusan National University with a Master's degree in Digital
 I was a teaching assistant at Digital Finance Labs and research assistant at Software Education Center.
 <br />
 <br />
-My Portfolio and Blog in below 
+My Blog in below 
 
 <!-- **[🔗 포트폴리오](https://florentine-behavior-ea1.notion.site/Portfolio-ae5ff7f5166044cb861ae8452cf91dcf)** -->
 
