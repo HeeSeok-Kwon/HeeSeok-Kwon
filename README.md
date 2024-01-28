@@ -8,7 +8,7 @@ I was a teaching assistant at Digital Finance Labs and research assistant at Sof
 <br />
 My Portfolio and Blog in below 
 
-**[🔗 포트폴리오](https://florentine-behavior-ea1.notion.site/Portfolio-ae5ff7f5166044cb861ae8452cf91dcf)**
+<!-- **[🔗 포트폴리오](https://florentine-behavior-ea1.notion.site/Portfolio-ae5ff7f5166044cb861ae8452cf91dcf)** -->
 
 **[🔗 기술 블로그](https://blog.naver.com/rnjs1995)**
 
