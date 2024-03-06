@@ -71,8 +71,9 @@ Below are projects I participated in
 
 **[🔗 GDSC 소개 홈페이지 Demo](https://github.com/gdsc-2021/gdsc-pnu-5th-heeseok)**
 
-- 배포 링크 : [https://gdsc-pnu-demo.netlify.app/](https://gdsc-pnu-demo.netlify.app/)
+- 배포 링크 : ~~[https://gdsc-pnu-demo.netlify.app/](https://gdsc-pnu-demo.netlify.app/)~~ (사이트 이전 작업 중)
 - 사용 스택 : Vue.js, HTML, CSS
+- 프로젝트 링크 : [GDSC-PNU-DEMO 프로젝트](https://github.com/gdsc-2021/gdsc-pnu-5th-heeseok)
 
 
 **[🔗 착송 출시](https://github.com/Error-Remittance)**
@@ -81,7 +82,8 @@ Below are projects I participated in
 - 사용 스택 : Flutter, GetX, Dio
 - 주요 업무 : 프론트엔드 개발자 (Flutter)
 - 기타 : 착송 홈페이지, 관리자 홈페이지 개발
-- 착송 홈페이지 (서브 도메인 작업 중) : [https://chaksong.netlify.app/](https://chaksong.netlify.app/)
+- 착송 홈페이지 : ~~[https://chaksong.netlify.app/](https://chaksong.netlify.app/)~~ (사이트 이전 작업 중)
+- 2023.02 착송 서비스 종료
 
 
 **[🔗 당근마켓 클론코딩 React](https://github.com/CarrotMarket-Clone)**
@@ -90,7 +92,8 @@ Below are projects I participated in
 
 **[🔗 BlockChain Farm Lotto 프로젝트](https://github.com/BlockchainFarm-Lotto)**
 
-- 배포 링크 : [https://lottocoin.netlify.app/](https://lottocoin.netlify.app/)
+- 배포 링크 : ~~[https://lottocoin.netlify.app/](https://lottocoin.netlify.app/)~~ (사이트 이전 작업 중)
+- 프로젝트 링크 : [이더리움 로또코인 프로젝트](https://github.com/BlockchainFarm-Lotto/Ethereum_Lotto_Machine_V3)
 - 사용 스택 : React, Solidity, Web3.js
 
 <br>
