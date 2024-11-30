@@ -29,6 +29,7 @@ At the SW Education Center, I developed and maintained the following website.
 - 사용 스택 : React, Node.js, npm, nvm, postgresql, nginx
 - 주요 업무 : 서버 관리
 - 상세 : 이전 관리자로부터 인수인계 받아 관리
+- 참고 : 현재 서비스 종료
 
 **[🔗 PNU Online Judge](http://oj.pusan.ac.kr/)**
 
@@ -42,10 +43,7 @@ At the SW Education Center, I developed and maintained the following website.
 
 <br />
 
-At the DiFiLab, I developed the following website using google site.
-- [DiFiLab](https://sites.google.com/view/difilab)
-
-Conducting blockchain and platform management practice classes.
+At the DiFiLab, Conducting blockchain and platform management practice classes.
 
 1. Python을 이용한 채굴 실습
 - [https://github.com/HeeSeok-Kwon/Python_study/tree/main/BlockChain_and_Platform_Business](https://github.com/HeeSeok-Kwon/Python_study/tree/main/BlockChain_and_Platform_Business)
@@ -75,17 +73,6 @@ Below are projects I participated in
 - 사용 스택 : Vue.js, HTML, CSS
 - 프로젝트 링크 : [GDSC-PNU-DEMO 프로젝트](https://github.com/gdsc-2021/gdsc-pnu-5th-heeseok)
 
-
-**[🔗 착송 출시](https://github.com/Error-Remittance)**
-
-- 구글 플레이 스토어 : [https://play.google.com/store/apps/details?id=com.chaksong.release](https://play.google.com/store/apps/details?id=com.chaksong.release)
-- 사용 스택 : Flutter, GetX, Dio
-- 주요 업무 : 프론트엔드 개발자 (Flutter)
-- 기타 : 착송 홈페이지, 관리자 홈페이지 개발
-- 착송 홈페이지 : ~~[https://chaksong.netlify.app/](https://chaksong.netlify.app/)~~ (사이트 이전 작업 중)
-- 2023.02 착송 서비스 종료
-
-
 **[🔗 당근마켓 클론코딩 React](https://github.com/CarrotMarket-Clone)**
 
 **[🔗 당근마켓 클론코딩 Flutter](https://github.com/flutter-clone-coding)**
@@ -95,6 +82,26 @@ Below are projects I participated in
 - 배포 링크 : ~~[https://lottocoin.netlify.app/](https://lottocoin.netlify.app/)~~ (사이트 이전 작업 중)
 - 프로젝트 링크 : [이더리움 로또코인 프로젝트](https://github.com/BlockchainFarm-Lotto/Ethereum_Lotto_Machine_V3)
 - 사용 스택 : React, Solidity, Web3.js
+
+**[🔗 착송 출시](https://github.com/Error-Remittance)**
+
+- 구글 플레이스토어 : [https://play.google.com/store/apps/details?id=com.chaksong.release](https://play.google.com/store/apps/details?id=com.chaksong.release)
+- 사용 스택 : Flutter (상태관리 : GetX, 통신 : Dio)
+- 주요 업무 : Flutter 앱 개발자
+- 기타 : 착송 홈페이지, 관리자 홈페이지 개발
+- 착송 홈페이지 : ~~[https://chaksong.netlify.app/](https://chaksong.netlify.app/)~~ (사이트 이전 작업 중)
+- 개발 기간 : 2022.01. ~ 2023.01.
+- 서비스 기간 : 2022.11. ~ 2023.02.
+- 서비스 종료 : 2023.02.
+
+**[🔗 아미타민 출시](https://github.com/Amitamin-Team/Amitamin-Introduce)**
+
+- 애플 앱스토어 : [https://apps.apple.com/kr/app/amitamin/id6677036594](https://apps.apple.com/kr/app/amitamin/id6677036594)
+- 구글 플레이스토어 : [https://play.google.com/store/apps/details?id=com.chaksong.release](https://play.google.com/store/apps/details?id=com.chaksong.release)
+- 사용 스택 : Flutter (상태관리 : Riverpod, 통신 : Dio)
+- 주요 업무 : Flutter 앱 개발자
+- 아미타민 홈페이지 : [https://amine.co.kr/](https://amine.co.kr/)
+- 개발 기간 : 2023.06. ~ 2024.11.
 
 <br>
 
