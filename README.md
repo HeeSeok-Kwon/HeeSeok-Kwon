@@ -97,7 +97,7 @@ Below are projects I participated in
 **[🔗 아미타민 출시](https://github.com/Amitamin-Team/Amitamin-Introduce)**
 
 - 애플 앱스토어 : [https://apps.apple.com/kr/app/amitamin/id6677036594](https://apps.apple.com/kr/app/amitamin/id6677036594)
-- 구글 플레이스토어 : [https://play.google.com/store/apps/details?id=com.chaksong.release](https://play.google.com/store/apps/details?id=com.chaksong.release)
+- 구글 플레이스토어 : [https://play.google.com/store/apps/details?id=com.amitamin.amitamin_frontend](https://play.google.com/store/apps/details?id=com.amitamin.amitamin_frontend)
 - 사용 스택 : Flutter (상태관리 : Riverpod, 통신 : Dio)
 - 주요 업무 : Flutter 앱 개발자
 - 아미타민 홈페이지 : [https://amine.co.kr/](https://amine.co.kr/)
